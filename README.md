@@ -7,7 +7,7 @@
 
 - 💼 Currently working as a Software Engineer with a strong focus on Full Stack Development.
 
-- 💻 My coding journey started when I was 6y old with "Logo Writer v2. MS-DOS" at primary school. Then I went into HTML for couple years by doing games for web browesrs just for fun. I started Medicin School, but I got an Arduino and I fell in love with tech again, so I started Engineer College for couple of years for learn the basics. From now, Its around 7 years I've been colavorating with tech companies as Full Stack dev.
+- 💻 My coding journey started when I was 6 years old with "Logo Writer v2. MS-DOS" at primary school. Then I delved into HTML for a couple of years by creating games for web browsers just for fun. I started Medical School, but I got an Arduino and fell in love with tech again. So, I enrolled in Engineering College for a few years to learn the basics. It has been around 7 years now that I've been collaborating with tech companies as a Full Stack developer.
 
 - 🏢 I've collaborated with prominent companies like Technisys, IOVLabs( Taringa! ), Elevate MLS, and Rackspace Technology.
 
