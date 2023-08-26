@@ -20,7 +20,9 @@
 - 🎨 I also have a keen interest in electronics, having worked on various personal projects involving Arduino, CNC, RC planes, and more.
 
 - 🚀 Visit my long term personal projects:
+
       - 🌐🔮  [Nieriverso.com](https://m.nieriverso.com/) - VR word multi all app
+
       - 🛒🔁 [Nuevoshopping.com](https://m.nuevoshopping.com/) - E commerce inception  🛒🛒🛒🔁🛒🔁🛒🔁🛒🔁🛒🔁
 
 <h3 align="left">Languages and Tools:</h3>
