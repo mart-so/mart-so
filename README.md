@@ -27,7 +27,20 @@
                 <a href="https://nieriverso.com/">🌐🔮 nieriverso.com</a> - VR word multi all app
             </li>
             <li>
-                <a href="https://nuevoshopping.com/">🛒🔁 nuevoshopping.com</a> - E commerce inception
+                <a href="https://nuevoshopping.com/">🛒🔁 nuevoshopping.com</a> - E commerce inception of
+
+        <ul>
+
+                    <li>
+
+                                    <a href="[https://amadorauy.com/](https://amadorauy.com)">🛒🔁 amadorauy.com</a> - E commerce inception of
+
+            </li>
+
+        </ul>
+
+
+              /
             </li>
         </ul>
     </li>
