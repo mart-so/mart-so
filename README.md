@@ -30,10 +30,10 @@
                 <a href="https://nuevoshopping.com/">🛒🔁 nuevoshopping.com</a> - E commerce inception of
             <ul>
               <li>
-                <a href="https://amadorauy.com/"> amadorauy.com </a>
+                <a href="https://amadorauy.com/"> AmadoraUy </a>
               </li>
               <li>
-                <a href="https://isabijou.com/"> isabijou </a>
+                <a href="https://isabijou.com/"> Isabijou </a>
               </li>
             </ul>
             </li>
