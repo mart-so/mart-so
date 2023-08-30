@@ -28,19 +28,11 @@
             </li>
             <li>
                 <a href="https://nuevoshopping.com/">🛒🔁 nuevoshopping.com</a> - E commerce inception of
-
-        <ul>
-
-                    <li>
-
-                                    <a href="[https://amadorauy.com/](https://amadorauy.com)">🛒🔁 amadorauy.com</a> - E commerce inception of
-
-            </li>
-
-        </ul>
-
-
-              /
+            <ul>
+              <li>
+                <a href="[https://amadorauy.com/](https://amadorauy.com)">🛒🔁 amadorauy.com</a> - E commerce inception of
+              </li>
+            </ul>
             </li>
         </ul>
     </li>
