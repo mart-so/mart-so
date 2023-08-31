@@ -33,7 +33,7 @@
                 <a href="https://amadorauy.com/"> AmadoraUy </a>
               </li>
               <li>
-                <a href="https://isabijou.com/"> Isabijou </a>
+                <a href="https://www.isabijou.com/"> Isabijou </a>
               </li>
             </ul>
             </li>
