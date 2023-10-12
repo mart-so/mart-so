@@ -1,8 +1,6 @@
 ## Hey there, I'm Martín! 👋
 ### Software Engineer | Full Stack Developer
 
-- 🌐 Explore more about my project and me on [martinsouza.com](https://martinsouza.com/) or drop me an message at [linkedin.com/in/mart-so](https://linkedin.com/in/mart-so).
-
 - 🌍 Based in Uruguay, and passionate about create innovative tech things.
 
 - 💼 Currently working as a Software Engineer with a strong focus on Full Stack Development.
