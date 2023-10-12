@@ -20,27 +20,6 @@ Some twists and turns later, I've now been collaborating with global tech compan
 
 - 🎨 I also have a keen interest in electronics, having worked on various personal projects involving Arduino, CNC, RC planes, and more.
 
-<ul>
-    <li>
-        <strong>🚀 Visit my long term personal projects:</strong>
-        <ul>
-            <li>
-                <a href="https://nieriverso.com/">🌐🔮 nieriverso.com</a> - VR word multi all app
-            </li>
-            <li>
-                <a href="https://nuevoshopping.com/">🛒🔁 nuevoshopping.com</a> - E commerce inception of
-            <ul>
-              <li>
-                <a href="https://amadorauy.com/"> AmadoraUy </a>
-              </li>
-              <li>
-                <a href="https://www.isabijou.com/"> Isabijou </a>
-              </li>
-            </ul>
-            </li>
-        </ul>
-    </li>
-</ul>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
