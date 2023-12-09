@@ -3,8 +3,6 @@
 
 - 🌍 Based in Uruguay, and passionate about create innovative tech things.
 
-- 💼 Currently working as a Software Engineer with a strong focus on Full Stack Development.
-
 - 💻 My coding journey began when I was 6 years old, using "Logo Writer v2.0 for MS-DOS" in primary school. After that, I spent a couple of years delving into HTML and Javascript, creating games for web browsers just for fun. Later, I began Medical School, but my passion for technology was rekindled when I got an Arduino. Consequently, I decided to enroll in Engineering College for a few years.
 Some twists and turns later, I've now been collaborating with global tech companies for about 7 years 
 
