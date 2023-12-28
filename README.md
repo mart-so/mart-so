@@ -17,7 +17,7 @@ Some twists and turns later, I've now been collaborating with global tech compan
 - 🎨 I also have a keen interest in electronics, having worked on various personal projects involving Arduino, CNC, RC planes, and more.
 
 - 🌐 Check out some of my websites:
-<ul><li><a href="https://nuevoshopping.com" target="_new">nuevoshopping.com</a></li><li><a href="https://nieriverso.com" target="_new">nieriverso.com</a></li><li><a href="https://mesientomal.com" target="_new">mesientomal.com</a></li><li><a href="https://amadorauy.com" target="_new">amadorauy.com</a></li><li><a href="https://clean.martinsouza.com" target="_new">clean.martinsouza.com</a></li><li><a href="https://martinsouza.com" target="_new">martinsouza.com</a></li></ul>
+<ul><li><a href="https://nuevoshopping.com" target="_new">nuevoshopping.com</a></li><li><a href="https://nieriverso.com" target="_new">nieriverso.com</a></li><li><a href="https://uy.mesientomal.com" target="_new">uy.mesientomal.com</a></li><li><a href="https://amadorauy.com" target="_new">amadorauy.com</a></li><li><a href="https://clean.martinsouza.com" target="_new">clean.martinsouza.com</a></li><li><a href="https://martinsouza.com" target="_new">martinsouza.com</a></li></ul>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
