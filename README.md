@@ -1,5 +1,5 @@
 ## Hey there, I'm Martín! 👋
-### Software Engineer | Full Stack Developer
+### Software wizard (?
 
 - 🌍 Based in Uruguay, and passionate about create innovative tech things.
 
