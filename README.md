@@ -3,14 +3,9 @@
 
 - 🌍 Based in Uruguay, and passionate about create innovative tech things.
 
-- 💻 My coding journey began when I was 6 years old, using "Logo Writer v2.0 for MS-DOS" in primary school. After that, I spent a couple of years delving into HTML and Javascript, creating games for web browsers just for fun. Later, I began Medical School, but my passion for technology was rekindled when I got an Arduino. Consequently, I decided to enroll in Engineering College for a few years.
-Some twists and turns later, I've now been collaborating with global tech companies for about 7 years 
-
 - 🏢 I've collaborated with prominent companies like Technisys, IOVLabs( Taringa! ), Elevate MLS, and Rackspace Technology.
 
-- 🛠️ Proficient in a wide range of technologies, including JavaScript, Node.js, ReactJS, Typescript, Docker, and more.
-
-- 🎓 I keep learning base on suggested path from Platzi, a platform that I found more efficient for learn than the University, anyway I have strong background in both Electronic Engineering and Computing Science Engineering from Universidad de la República (UDELAR)
+- 🛠️ Breaking it in a wide range of technologies, including JavaScript, Node.js, ReactJS, Typescript, Docker, and more.
   
 - 📚 My expertise includes Full Stack Development, Agile Team Management, and more.
 
