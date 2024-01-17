@@ -1,5 +1,5 @@
 ## Hey there, I'm Martín! 👋
-### Software wizard (?
+### Software developer
 
 - 🌍 Based in Uruguay, and passionate about create innovative tech things.
 
