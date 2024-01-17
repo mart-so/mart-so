@@ -5,7 +5,7 @@
 
 - 🛠️ Breaking it in a wide range of technologies, including JavaScript, Node.js, ReactJS, Typescript, Docker, and more.
   
-- 🌐 Check out some of my websites:
+- 🌐 Check out some of my indie projects:
 <ul><li><a href="https://nuevoshopping.com" target="_new">nuevoshopping.com</a></li><li><a href="https://nieriverso.com" target="_new">nieriverso.com</a></li><li><a href="https://www.botija.org" target="_new">www.botija.org</a></li><li><a href="https://amadorauy.com" target="_new">amadorauy.com</a></li><li><a href="https://clean.martinsouza.com" target="_new">clean.martinsouza.com</a></li><li><a href="https://martinsouza.com" target="_new">martinsouza.com</a></li></ul>
 
 <h3 align="left">Languages and Tools:</h3>
