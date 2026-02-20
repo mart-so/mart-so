@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Mart%C3%ADn+Souza;Full+Stack+Developer+%26+DevOps;React+%7C+Node.js+%7C+TypeScript;Building+scalable+things+in+Uruguay" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Mart%C3%ADn+Souza;Full+Stack+Developer+%26+DevOps;React+%7C+Node.js+%7C+TypeScript;Building+scalable+solutions+in+Uruguay" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -21,20 +21,17 @@
 
 <br/>
 
-## 👋 Sobre mí
+## 👋 About Me
 
-Soy un **Desarrollador Full Stack** uruguayo con **+8 años de experiencia** en **React**, **Node.js**, **TypeScript** y **DevOps**. Me especializo en arquitecturas escalables, soluciones serverless y productos de alto impacto.
+I'm a **Full Stack Developer** from Uruguay with **+8 years of experience** focused on **React**, **Node.js**, **TypeScript**, and **DevOps**. I specialize in scalable architectures, serverless solutions, and high-impact products.
 
-He colaborado con empresas como **Rackspace Technology**, **BROU**, **Taringa! (IOVLabs)**, **Elevate MLS** y **Technisys**, liderando fases clave de proyectos y trabajando en equipos ágiles internacionales (en inglés).
+I've worked with companies like **Rackspace Technology**, **BROU**, **Taringa! (IOVLabs)**, **Elevate MLS**, and **Technisys**, leading key project phases in international agile teams (English-speaking).
 
-Además:
-- Actualmente **docente** en ANEP: enseño Ciencias de la Computación, Matemática y herramientas digitales avanzadas (Excel / Google Sheets) a adolescentes.
-- Apasionado por electrónica y proyectos DIY: Arduino, CNC, aviones RC.
-- Siempre explorando: cloud, integraciones de IA, contenedores y automatización.
+Also a teacher at **UTU**.
 
 <br/>
 
-## 🛠️ Tecnologías & Herramientas
+## 🛠️ Technologies & Tools
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,typescript,nextjs,nodejs,redux,tailwind,materialui" alt="Frontend" />
@@ -46,8 +43,6 @@ Además:
   <img src="https://skillicons.dev/icons?i=figma,git,linux,html,css,js,webpack,arduino" alt="Others" />
 </div>
 
-<br/>
-
 ### Frontend
 - **React.js** (Redux, Hooks, Jest, MUI, Tailwind, Storybook)
 - **Next.js**, **React Native** + Expo
@@ -58,71 +53,56 @@ Además:
 - **Node.js** + TypeScript
 - REST / GraphQL APIs, JWT, OAuth
 - Microservices, Serverless (AWS Lambda)
-- Bases de datos: PostgreSQL, MongoDB, MySQL, DynamoDB, Supabase
+- Databases: PostgreSQL, MongoDB, MySQL, DynamoDB, Supabase
 - Redis, RabbitMQ, Socket.IO, ElasticSearch
 
 ### DevOps & Cloud
 - **AWS** (Lambda, S3, DynamoDB, CloudWatch, API Gateway)
-- **GCP**, Azure (básico)
-- **Docker**, Docker Compose, Swarm
+- **GCP**, Azure (basic)
+- **Docker**, Docker Compose
 - CI/CD: GitHub Actions, Jenkins, Argo CD
 - Monitoring: Prometheus, Grafana
 - Linux, Nginx, Apache
 
-### Otros
+### Other
 - Agile / Scrum, Jira, Notion
-- OpenAI API, Ollama, n8n (automatización IA)
-- Figma (UI/UX), Public Speaking, Emotional Intelligence
+- OpenAI API, Ollama, n8n (AI automation)
+- Figma (UI/UX)
 
 <br/>
 
-## 💼 Experiencia clave
+## 💼 Key Experience
 
-- **Docente – ANEP** (2025–presente)  
-  Ciencias de la Computación, Matemática, Excel/Google Sheets avanzado
-
+- **Teacher – UTU** (Current)  
 - **Software Engineer – Phi Professional Services** (Rackspace Technology) 2022–2023  
-  Capacity Planner serverless: **AWS Lambda**, React, Node, TypeScript, DynamoDB, CI/CD
-
+  Serverless Capacity Planner: AWS Lambda, React, Node, TypeScript, DynamoDB, CI/CD  
 - **Full Stack Developer – Block Nerds** (Elevate MLS) 2021–2022  
-  APIs críticas, rediseño UI, pipelines automáticos: **Next.js**, Docker, GCP, Redis, RabbitMQ
-
+  Critical APIs, UI redesign, automated pipelines: Next.js, Docker, GCP, Redis, RabbitMQ  
 - **Sr. Frontend Developer – IOVLabs** (Taringa!) 2020–2021  
-  Design System con Storybook, SSR, SEO: **Next.js**, Redis, ElasticSearch, Jenkins
-
+  Storybook Design System, SSR, SEO: Next.js, Redis, ElasticSearch, Jenkins  
 - **Full Stack Developer – Technisys** 2017–2020  
-  - BROU (banco): React + Node en producción  
-  - R&D: Modernización Cyber Banking (React + microservicios), Digital Assistant (Node + Dialogflow + Alexa/Google Home), autenticación Safeway, Back Office
+  BROU banking production (React + Node)  
+  R&D: Cyber Banking modernization (React + microservices), Digital Assistant (Node + Dialogflow + Alexa/Google Home), Safeway auth, Back Office
 
 <br/>
 
-## 🚀 Proyectos destacados (Online)
+## 🚀 Featured Projects (Online)
 
 <div align="center">
-  <!-- Reemplaza estos placeholders con capturas reales subidas a tu repo o imgur -->
-  <a href="https://nuevoshopping.com" target="_blank">
-    <img src="https://via.placeholder.com/400x200/0A66C2/FFFFFF?text=NuevoShopping+SaaS+e-commerce" alt="NuevoShopping" width="45%" />
-    <br/><strong>NuevoShopping</strong> — Plataforma SaaS para crear tiendas online sin código (2025–presente)
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://nieriverso.com" target="_blank">
-    <img src="https://via.placeholder.com/400x200/FF3366/FFFFFF?text=NieriVerso+Metaverse" alt="NieriVerso" width="45%" />
-    <br/><strong>NieriVerso</strong> — Red social / metaverso con mundos virtuales (2024–presente)
-  </a>
+
+📦 **NuevoShopping** — SaaS platform to create online stores without code (2025–present)  
+🔗 https://nuevoshopping.com
+
+📦 **NieriVerso** — Social network / metaverse with virtual worlds (2024–present)  
+🔗 https://nieriverso.com
+
 </div>
-
-<br/>
-
-Otros proyectos:
-- **martinsouza.com** (portfolio personal)
-
-¡Visita mi portfolio → [martinsouza.com](https://martinsouza.com)!
 
 <br/>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mart-so&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mart-so&theme=radical&hide_border=true" alt="Streak Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mart-so&theme=radical&hide_border=true" alt="Contribution Streak" width="48%" />
 </div>
 
 <div align="center">
@@ -133,6 +113,6 @@ Otros proyectos:
 
 ---
 
-⭐ ¿Te gustó? ¡Deja una ⭐ en mis repos si te sirven de inspiración!
+⭐ If you like what you see, feel free to star my repos!
 
-¡Gracias por pasar por acá! 🚀
+Thanks for stopping by! 🚀
